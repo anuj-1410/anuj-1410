@@ -6,7 +6,7 @@
       width="100%"
     />
   </a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=04346C&background=A87C04&center=true&vCenter=true&width=800&lines=CSE+Student+(AIML);AI+%26+ML+Enthusiast+;Full+Stack+Developer;Building+Impactful+Projects" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=04346C&background=A87C04&center=true&vCenter=true&width=900&lines=CSE+Student+(AIML);AI+%26+ML+Enthusiast+;Full+Stack+Developer;Building+Impactful+Projects" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -41,11 +41,11 @@
 
 ---
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/anuj1410">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:anujagrawal1410@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
