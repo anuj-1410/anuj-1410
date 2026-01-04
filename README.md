@@ -5,7 +5,7 @@
     width="100%"
   />
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=04346C&background=A87C04&center=true&vCenter=true&width=900&lines=CSE+Student+(AIML);AI+%26+ML+Enthusiast+;Full+Stack+Developer;Building+Impactful+Projects" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=04346C&background=A87C04&center=true&vCenter=true&width=900&lines=CSE+Student+(AIML);AI+%26+ML+Enthusiast+;Full+Stack+Developer;Building+Impactful+Projects" 
     alt="Typing SVG" 
   />
 </p>
@@ -54,9 +54,6 @@
     alt="Contribution Graph"
   />
 </p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=120&section=footer"/>
 </p>
