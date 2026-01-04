@@ -28,13 +28,31 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/anuj-1410/autoshield">
-    <img
-      src="https://fancy-readme-stats.vercel.app/api/pin/?username=anuj-1410&repo=autoshield&theme=beach"
-      alt="Repository Card"
-      width="100%"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=anuj-1410&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=anuj-1410&repo=AutoShield-hackathon&theme=tokyonight&hide_border=true"
+    alt="Repository Card"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-1410&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-1410&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 
