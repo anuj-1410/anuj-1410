@@ -38,13 +38,6 @@
     </td>
     <td align="center">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-1410&theme=tokyonight&hide_border=true"
-        alt="GitHub Streak"
-        height="165"
-      />
-    </td>
-    <td align="center">
-      <img
         src="https://stats-card-github.vercel.app/api?username=anuj-1410&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
         alt="GitHub Stats"
         height="165"
@@ -62,18 +55,6 @@
     src="https://github-readme-activity-graph.vercel.app/graph?username=anuj-1410&theme=tokyo-night&hide_border=true&area=true"
     alt="Contribution Graph"
   />
-</p>
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anuj1410">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-
-  <a href="mailto:anujagrawal1410@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
 </p>
 
 ---
