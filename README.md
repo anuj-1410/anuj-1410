@@ -4,10 +4,9 @@
     alt="Premium Animated Header"
     width="100%"
   />
-
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=04346C&background=0A87C0&center=true&vCenter=true&width=900&lines=CSE+Student+(AIML);AI+%26+ML+Enthusiast;Full+Stack+Developer;Building+Impactful+Projects"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=04346C&background=A87C04&center=true&vCenter=true&width=900&lines=CSE+Student+(AIML);AI+%26+ML+Enthusiast+;Full+Stack+Developer;Building+Impactful+Projects" 
+    alt="Typing SVG" 
   />
 </p>
 
@@ -28,25 +27,31 @@
 
 ---
 
-<p align="center">
-  <img
-    src="https://stats-card-github.vercel.app/api?username=anuj-1410&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://stats-card-github.vercel.app/api/top-langs/?username=anuj-1410&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://stats-card-github.vercel.app/api/pin/?username=anuj-1410&repo=AutoShield-hackathon&theme=tokyonight&hide_border=true"
-    alt="Featured Repository"
-  />
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://stats-card-github.vercel.app/api/top-langs/?username=anuj-1410&layout=compact&theme=tokyonight&hide_border=true"
+        alt="Top Languages"
+        height="165"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-1410&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
+        height="165"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://stats-card-github.vercel.app/api?username=anuj-1410&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+        alt="GitHub Stats"
+        height="165"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
