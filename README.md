@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,react,fastapi,nodejs,tensorflow,opencv,docker,git" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nextjs,fastapi,flask,tensorflow,sklearn,docker,jenkins,git,vscode" alt="Skills" />
 </p>
 
 ---
@@ -48,8 +48,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=anuj-1410&theme=tokyo-night&hide_border=true&area=true"
@@ -59,7 +57,6 @@
 
 ---
 
-<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=120&section=footer"/>
 </p>
